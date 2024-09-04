@@ -1,0 +1,10 @@
+1111  salem_Salmi  222233  s  1500.0
+2222  Samar_Alsomari  444533  o  1300.0
+3333  Hatem_Saleem  245566  o  6000.0
+4444  Ribhi_Alrabeh  432154  o  2500.0
+1112  Dima_Saeed  456785  s  2000.0
+2221  Ahmad_Naser  980766  s  10000.0
+5555  Talal_Sameer  345647  s  7000.0
+6666  Nihad_Aref  982315  s  45000.0
+3344  Sahar_Metwali  555333  s  1756.0
+5556  Raja_Mohammad  213967  o  3000.0
